@@ -85,6 +85,14 @@ h1 {
   width: 100%;
 }
 
+.smaller-lion {
+    border: 1px solid red;
+    height: 400px;
+    object-fit: contain;
+    object-position: center;
+    width: 250px;
+}
+
 @media screen and (max-width: 768px) {
   nav {
     flex-direction: column;
