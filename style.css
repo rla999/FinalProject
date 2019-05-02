@@ -65,6 +65,17 @@ nav a:hover {
   margin: auto;
 }
 
+/* .big-hero h1 a,
+.jumbotron h1 a {
+  align-items: center;
+  color: #fff;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  text-decoration: none;
+  width: 100%;
+} */
+
 h1 {
   align-items: center;
   background: rgba(0, 0, 0, 0.5);
