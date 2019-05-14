@@ -49,8 +49,38 @@ nav a:hover {
   width: 100%;
 }
 
-.jumbotron {
-  background-image: url(images/lion.jpg);
+.jumbotron-thor {
+  background-image: url(images/thor.jpg);
+  background-position: right center;
+  background-size: cover;
+  display: flex;
+  height: 50vh;
+  min-height: 300px;
+  width: 100%;
+}
+
+.jumbotron-ironman {
+  background-image: url(images/ironman.jpg);
+  background-position: right center;
+  background-size: cover;
+  display: flex;
+  height: 50vh;
+  min-height: 300px;
+  width: 100%;
+}
+
+.jumbotron-hulk {
+  background-image: url(images/professorhulk.jpg);
+  background-position: right center;
+  background-size: cover;
+  display: flex;
+  height: 50vh;
+  min-height: 300px;
+  width: 100%;
+}
+
+.jumbotron-captainamerica {
+  background-image: url(images/captain-america.png);
   background-position: right center;
   background-size: cover;
   display: flex;
